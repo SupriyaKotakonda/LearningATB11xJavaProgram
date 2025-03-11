@@ -11,6 +11,5 @@ public class Variables_Interview_QnA2 {
 //            int Lab013 = 123;
 //            System.out.println(a_b);
 
-        }
     }
 }
